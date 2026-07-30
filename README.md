@@ -22,7 +22,7 @@ The official [`mcp`](https://rubygems.org/gems/mcp) gem requires newer Ruby vers
 Add to your Gemfile:
 
 ```ruby
-gem 'legacy-mcp', github: 'chr/legacy-mcp'
+gem 'legacy-mcp', github: 'christiangogo2014/legacy-mcp'
 ```
 
 Or from a local path during development:
